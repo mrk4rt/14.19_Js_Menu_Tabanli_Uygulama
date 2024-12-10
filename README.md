@@ -56,3 +56,11 @@ Kullanıcı etkileşimli bir uygulama tasarlayarak belirli bir menü üzerinden 
 
 ## **Örnek Menü Formatı (Kullanıcıya Gösterilecek):**
 
+=== MENÜ ===
+1. Veri Ekle
+2. Verileri Listele
+3. Veri Ara
+4. Çıkış
+Bir seçim yapınız (1-4):
+
+
